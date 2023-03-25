@@ -1,15 +1,9 @@
-public class Tablet {
-    private int screenSize; // in inches
-    private int memory; // in gigabytes (GB)
+public class Tablet extends Computer {
     private boolean stylusIncluded;
 
     public Tablet(int screenSize, int memory, boolean stylusIncluded) {
-        this.screenSize = screenSize;
-        this.memory = memory;
+        super(screenSize, memory);
         this.stylusIncluded = stylusIncluded;
     }
 
-    public void installOperatingSystem() {
-        System.out.println("installing OS...");
-    }
 }

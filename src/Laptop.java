@@ -1,16 +1,9 @@
-public class Laptop {
-    private int screenSize; // in inches
-    private int memory; // in gigabytes (GB)
+public class Laptop extends Computer {
     private boolean trackPadCalibrated;
 
     public Laptop(int screenSize, int memory) {
-        this.screenSize = screenSize;
-        this.memory = memory;
+        super(screenSize, memory);
         trackPadCalibrated = false; // default value
-    }
-
-    public void installOperatingSystem() {
-        System.out.println("installing OS...");
     }
 
     public void calibrateTrackpad() {

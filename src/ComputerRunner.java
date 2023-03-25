@@ -1,8 +1,8 @@
-class Main {
+class ComputerRunner {
     public static void main(String[] args) {
         // ----------- TEST CODE! ------------
         // Uncomment when you are ready to test
-        /*
+
         Computer computer1 = new Computer(12, 256);
         System.out.println(computer1 instanceof Computer);
         Desktop desktop1 = new Desktop(18, 512, true);
@@ -15,5 +15,6 @@ class Main {
         System.out.println(desktop1 instanceof Computer);
         System.out.println(laptop1 instanceof Computer);
         System.out.println(tablet1 instanceof Computer);
-        */
+
     }
+}

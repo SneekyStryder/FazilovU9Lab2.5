@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="107945af-cd38-4fb4-9a5e-19b47a8b338f" name="Changes" comment="">
+    <list default="true" id="107945af-cd38-4fb4-9a5e-19b47a8b338f" name="Changes" comment="2.5 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desktop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComputerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tablet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GamingDesktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamingDesktop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.intellij.sdk.settings.AppSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.intellij.sdk.settings.AppSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ComputerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComputerRunner" />
@@ -65,6 +61,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679672347915</updated>
     </task>
+    <task id="LOCAL-00001" summary="2.5 done">
+      <created>1679786642168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679786642168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.5 done" />
   </component>
 </project>
